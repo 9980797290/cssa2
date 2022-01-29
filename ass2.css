@@ -1,0 +1,133 @@
+body{
+    border: 5px solid black;
+    background-image: url(./restu3.jpg);
+}
+.box1{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    width:250px;
+    position: absolute;
+margin: 10px;
+margin-left: 60px;
+}
+.box2{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    margin-right: 45px;
+    margin-left: 40px;
+    position: relative;
+    bottom: 63px;
+    left:210px;
+
+    
+    
+}
+.box3{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    border: solid;
+    border-radius: 20px;
+    border-color: red;
+    margin-left: 260px;
+    width:300px;
+    height:140px;
+    text-align: center;
+
+}
+#circle {
+    text-align: center;
+    width:250px;
+    height:250px;
+    border-radius:50%;
+    box-sizing: content-box;
+    border:5px solid slategrey;
+    margin-left: 50px;
+    margin-top: 200px;
+    align-items: center;
+    background-color: black;
+    position: absolute;
+color:white;
+
+}
+.circ {
+
+    text-decoration: underline;
+}
+.h {
+    width: 200px;
+}
+.form {
+    margin-top: 60px;
+    margin-left: 30%;
+    text-align: center;
+    padding-left: 0px;
+    align-content: center;
+    width:250px;
+    border: 5px dashed black;
+} 
+
+
+
+.h2{
+    padding-left: 5px;
+    padding-top: 15px;
+    margin:2px;
+}
+.center {
+text-align:center;
+
+}
+.box5 {
+    border:5px solid red;
+    background-color: black;
+    text-align: center;
+    width:250px;
+    height:70px;
+    border-radius: 30px;
+    align-content: center;
+    color: white;
+    margin-left: 350px;
+    margin-top: 35px;
+    padding-top: 0px;
+}
+
+.hi {
+    border: solid 1.5px black;
+}
+
+
+.flex-container {
+    
+    width:100%;
+    height:auto;
+    display: flex;
+
+flex-direction:row;
+flex-wrap: wrap;
+justify-content:flex-start;
+    
+}
+.flex-item{
+    width:350px;
+    height:200px;
+    background-color: black;
+    color:white;
+    font-size: 15px;
+    text-align: center;
+    box-sizing: border-box;
+    margin:10px;
+   border-radius: 10px;
+   margin:20px;
+   margin-right: 40px;
+   
+   
+}
